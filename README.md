@@ -1,5 +1,10 @@
 # Adrian-Mikkelsen-Johannessen-JS1-CA
 
+# Uploaded on Github and Netlify.
+
+https://github.com/AdrianMikk/Adrian-Mikkelsen-Johannessen-JS1-CA
+https://delicate-bunny-0a84fa.netlify.app/
+
 # Index.html
 
 For the index page I just added a simple border around and in between the jokes to separate them.
